@@ -7,5 +7,5 @@ Requirements:
 
 # Project 2&3: Capital & 5-star widget
 
-how to run: npm install & npm start  
+how to run: `npm install & npm start`  
 live version: [hosted on Heroku](https://stark-atoll-93983.herokuapp.com/)
